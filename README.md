@@ -40,3 +40,16 @@
 ## La classe CustomerRestController 
 ![restCustomer](https://user-images.githubusercontent.com/62752474/139606818-6f969657-0347-4756-b316-e49a2a9dfd39.PNG)
 
+## Test Service
+### recuperer tous les clients
+![customersApi](https://user-images.githubusercontent.com/62752474/139607103-73998957-7349-478c-ac5c-73b14706d506.PNG)
+
+### docs-api Customer
+![docs-api](https://user-images.githubusercontent.com/62752474/139607105-86d6b072-5ae0-4504-9886-1f9cd2d24756.PNG)
+
+### Swagger
+![swaggerHtml](https://user-images.githubusercontent.com/62752474/139607107-89353b89-def4-4031-a0f4-e470e646a131.PNG)
+
+
+
+
