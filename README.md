@@ -93,6 +93,16 @@
 
 ![listfacturewithclient](https://user-images.githubusercontent.com/62752474/139607462-7945a68e-3d4e-44bf-aebf-f8421b908e9c.PNG)
 
+# Gateway-Service
 
+![GatwayMain](https://user-images.githubusercontent.com/62752474/139607627-ab736759-70bd-4764-8383-db0087eb93a6.PNG)
+## Test Gateway
+![gatway](https://user-images.githubusercontent.com/62752474/139607623-6d25f954-fa8b-492f-992b-ecef40699abe.PNG)
 
+### Gateway Customer Service
+![gatwayCustomersservices](https://user-images.githubusercontent.com/62752474/139607625-cc8f4baf-2db8-4d99-9b9b-a7bc80273456.PNG)
+
+### Gateway Invoice Service
+
+![gatwayInvoiceSrvices](https://user-images.githubusercontent.com/62752474/139607626-244ec178-800c-4a71-acb9-749669e754de.PNG)
 
