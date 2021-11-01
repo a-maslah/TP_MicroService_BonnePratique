@@ -80,17 +80,19 @@
 ## Services
 ### La classe InvoiceServiceImpl
 ![invoiceserviceImpl](https://user-images.githubusercontent.com/62752474/139607300-a3838944-4cab-448d-90c3-b8fa4837d96a.PNG)
+> OpenFeign 
 ## CustomerRestClient
 ![CustomerRestClient](https://user-images.githubusercontent.com/62752474/139607297-5e85712d-04ef-492c-9297-43d4230446b2.PNG)
 
 ## Web
-## La classe CustomerRestController 
+## La classe InvoiceRestAPI 
 ![invoiceRestAPI](https://user-images.githubusercontent.com/62752474/139607298-01de78b2-2dba-47d8-a3ff-944f654348b0.PNG)
 
 ## Test Service
 ![invoicesByCustomers](https://user-images.githubusercontent.com/62752474/139607460-82589d0e-338f-4f04-a263-bf8ce6bc49b8.PNG)
 
 ![listfacturewithclient](https://user-images.githubusercontent.com/62752474/139607462-7945a68e-3d4e-44bf-aebf-f8421b908e9c.PNG)
+
 
 
 
