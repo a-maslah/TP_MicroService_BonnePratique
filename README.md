@@ -51,5 +51,46 @@
 ![swaggerHtml](https://user-images.githubusercontent.com/62752474/139607107-89353b89-def4-4031-a0f4-e470e646a131.PNG)
 
 
+# Billing-Service
+## Les dependences necessaires
+* spring-boot-starter-data-jpa
+* spring-boot-starter-web
+* spring-cloud-starter-netflix-eureka-client
+* spring-cloud-starter-openfeign
+* spring-boot-starter-test
+* h2database
+* lombok
+* mapstruct
+* springdoc-openapi-ui
+## La classe Invoice
+## DTO
+### InvoiceRequestDTO
+![RequestDTOInvoice](https://user-images.githubusercontent.com/62752474/139607304-d305c6b3-9614-4553-b943-d7e7f3a152d0.PNG)
+
+### InvoiceResponseDTO   
+![responddtoInvoice](https://user-images.githubusercontent.com/62752474/139607307-b5f992b6-959f-49ae-98be-de0c88ded7d8.PNG)
+
+## DAO
+## Interface InvoiceRepository
+![respoInvoice](https://user-images.githubusercontent.com/62752474/139607305-4bf5b5d7-d129-4ed4-81f9-14e014fc0d93.PNG)
+
+### MapperInvoice
+![mapperInvoice](https://user-images.githubusercontent.com/62752474/139607303-f1632e0b-2d57-4e51-a489-87a78d96045e.PNG)
+      
+## Services
+### La classe InvoiceServiceImpl
+![invoiceserviceImpl](https://user-images.githubusercontent.com/62752474/139607300-a3838944-4cab-448d-90c3-b8fa4837d96a.PNG)
+## CustomerRestClient
+![CustomerRestClient](https://user-images.githubusercontent.com/62752474/139607297-5e85712d-04ef-492c-9297-43d4230446b2.PNG)
+
+## Web
+## La classe CustomerRestController 
+![invoiceRestAPI](https://user-images.githubusercontent.com/62752474/139607298-01de78b2-2dba-47d8-a3ff-944f654348b0.PNG)
+
+## Test Service
+![invoicesByCustomers](https://user-images.githubusercontent.com/62752474/139607460-82589d0e-338f-4f04-a263-bf8ce6bc49b8.PNG)
+
+![listfacturewithclient](https://user-images.githubusercontent.com/62752474/139607462-7945a68e-3d4e-44bf-aebf-f8421b908e9c.PNG)
+
 
 
