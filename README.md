@@ -110,6 +110,6 @@
 ![Eure](https://user-images.githubusercontent.com/62752474/139607767-66ad76ff-9334-489c-9ec1-e863d8c55a7a.PNG)
 ## Test Eureka Service 
 ![eurekaServ](https://user-images.githubusercontent.com/62752474/139607769-6f9781ee-c2dd-41e9-a455-1c40a40191c6.PNG)
-** Eureka UP ** 
+**Eureka UP** 
 ![eUREKAsERVup](https://user-images.githubusercontent.com/62752474/139607770-d63163a9-6603-4832-8e03-1055cc0822a4.PNG)
 
